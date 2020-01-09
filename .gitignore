@@ -16,3 +16,5 @@ pom.xml.asc
 /clojure/app/app.iml
 /python/pone/.idea/*
 /python/pone/venv/*
+/python/pytwo/.idea/*
+/python/pytwo/venv/*
